@@ -1,0 +1,19 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "A simple inventory management system with CRUD operations for products.",
+  "main": "src/main/java/App.java",
+  "scripts": {
+    "start": "java -cp src/main/java App",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "mysql-connector-java": "^8.0.27"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
+
+
+
+
